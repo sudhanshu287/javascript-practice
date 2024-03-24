@@ -87,3 +87,12 @@
 7.  **bigInt**
 
 ### Non Primitive
+
+**Reference Types**:
+    - Object: Represents a collection of key-value pairs.
+    - Array: Represents a special kind of object used to store a list of values.
+    - Function: Represents a callable object.
+    - Date: Represents a date and time.
+    - RegExp: Represents a regular expression object for pattern matching.
+
+**Other Objects**: There are other built-in objects like Map, Set, WeakMap, WeakSet, etc.
